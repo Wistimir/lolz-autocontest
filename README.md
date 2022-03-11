@@ -7,7 +7,7 @@
 
 ### Linux
 1. Скачиваем и устанавливаем python3, pip3 и git `sudo apt install python3 python3-pip git`
-1. Скачиваем и переходим в репозиторий `git clone https://github.com/Wistimir/lolz-autocontest-truncated.git; cd lolz-autocontest`
+1. Скачиваем и переходим в репозиторий `git clone https://github.com/Wistimir/lolz-autocontest-truncated.git; cd lolz-autocontest-truncated`
 1. Устанавливаем пакеты нужные для работы.
 `pip3 install -U -r requirements.txt`
 1. Переименовываем settings.example.json в settings.json и редактируем в соответствии с секцией [Настройки](#Настройки)
