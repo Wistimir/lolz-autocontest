@@ -1,4 +1,4 @@
-# Specify filepatterns you want git to ignore.
+# Ненужные файлы
 /settings.json
 /lolzautocontest.log
 /lolzautocontest-errors.log
@@ -8,9 +8,9 @@
 /__pycache__/
 /ErrorImages/
 
-# файлы самого лолза. для собственна всякой хуеты
+# Файлы самого лолза.
 /lolz files/
 
 
-# куча прототипных файлов. мне лень чистить
+# Куча прототипных файлов.
 /backups/

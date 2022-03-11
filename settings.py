@@ -5,11 +5,11 @@ import json
 f = open('settings.json')
 data = json.load(f)
 imagesDir = "ErrorImages/"
-users = data["users"]
+user = data["user"]
 save_error_images = data["save_error_images"]
-lolzdomain = data["lolz_domain"]
+lolz_domain = data["lolz_domain"]
 answers_server = data["answers_server"]
-lolzUrl = "https://" + lolzdomain + "/"
+lolz_url = "https://" + lolz_domain + "/"
 proxy_type = data["proxy_type"]
 found_count = data["found_count"]
 low_time = data["low_time"]
